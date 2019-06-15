@@ -129,4 +129,4 @@ friends:
   友情链接5: http://localhost:4000/
   友情链接6: http://localhost:4000/
 
-aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+aboutme: <div><img src="/assets/img/head2.jpg" class="js-avatar" >	<div  class="row">	<span class="key">姓名：</span><span class="val">董董</span></div>	<div class="row">	<span class="key">性别：</span><span class="val">男</span></div><div class="row">	<span class="key">身高：</span><span class="val">183cm</span></div><div class="row">	<span class="key">体重：</span><span class="val">75kg</span></div>	<div class="row">	<span class="key">出生年月：</span><span class="val">1992/03</span></div>		<div class="row">	<span class="key">星座：</span><span class="val">双子座</span></div>	<div class="row">	<span class="key">籍贯：</span><span class="val">山东</span></div>	<div class="row">	<span class="key">血型：</span><span class="val">未知</span></div><div class="row">	<span class="key">爱好：</span><span class="val">游戏，骑行</span></div><div class="row">	<span class="key">座右铭：</span><span class="val">你的潜力远比你表现出来的强大得多。</span></div></div>
