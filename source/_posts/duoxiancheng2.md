@@ -1,5 +1,8 @@
 ---
 title: 初识多线程和原理分析
+tags: 
+	- 多线程 
+	- java
 ---
 
 
@@ -17,7 +20,7 @@ title: 初识多线程和原理分析
 ##### 继承Thread类创建线程
 
 ​        Thread是实现Runnable的一个实例,代表一个线程的实例。start()是启动线程的唯一方法。start()是一个native方法,会启动新的线程,执行run()方法。
-
+<!-- more -->
 ```java
 package text;
 public class MyThread extends Thread {	
