@@ -5,3 +5,6 @@ db.json
 public/
 .deploy*/
 node_modules/
+scaffolds/
+package.json
+package-lock.json
