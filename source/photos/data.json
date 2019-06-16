@@ -1,0 +1,12 @@
+﻿{
+	"list": [{
+		"date": "2019-06",
+		"arr": {
+			"month": 6,
+			"text": ["美景"],
+			"type": ["image"],
+			"link": ["ztb.jpg"],
+			"year": 2019
+		}
+	}]
+}
