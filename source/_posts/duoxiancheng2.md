@@ -12,7 +12,7 @@ tags:
 #### 在什么情况下使用多线程
 
 ​      使用多线程的情况主要是解决程序的堵塞问题,调高CPU的使用率提升程序的性能,说到底多线程是解决的是等待的问题。
-
+<!-- more -->
 #### 多线程的创建方式
 
 ​      主要有三种:继承Thread类、实现Runnable接口、使用ExecutorService、Callable、Fulture实现带返回值的多线程。
@@ -20,7 +20,7 @@ tags:
 ##### 继承Thread类创建线程
 
 ​        Thread是实现Runnable的一个实例,代表一个线程的实例。start()是启动线程的唯一方法。start()是一个native方法,会启动新的线程,执行run()方法。
-<!-- more -->
+
 ```java
 package text;
 public class MyThread extends Thread {	
