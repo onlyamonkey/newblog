@@ -107,6 +107,6 @@
 
 >![](https://raw.githubusercontent.com/onlyamonkey/newblog/master/source/_posts/md-images/19.png)
 
-表格写法大同小异，也没有必要全部对齐，但是强迫症患者还是对的吧哈哈
+表格写法大同小异，也没有必要全部对齐，但是强迫症患者还是对齐吧哈哈
  
  

@@ -1,0 +1,5 @@
+{
+    "src": "D:/hexo/qnphotos",
+    "dest": "qiniu:access_key=mup6Hdg36CEt6w0Q3w8OmuhkNtiSwS9otdhXCalL&secret_key=81Ctvm14k6RYubieQMnIWF22Wuc23FLaTQ1gqPvm&bucket=images&key_prefix=md/",
+    "debug_level": 1
+}

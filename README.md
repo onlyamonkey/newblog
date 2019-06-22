@@ -1,2 +1,2 @@
 功能完善
-参考博客 https://www.cnblogs.com/liugang-vip/p/6337580.html
+七牛上传图片：qrsync.exe D:\hexo\blog\qrsync.json
