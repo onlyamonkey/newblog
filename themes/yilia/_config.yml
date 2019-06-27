@@ -4,6 +4,7 @@ menu:
   主页: /
   归档: /archives/index.html
   相册: /photos/
+  杂谈: /other/
 # SubNav
 subnav:
   github: "https://github.com/onlyamonkey/"
